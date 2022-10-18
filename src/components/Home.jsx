@@ -9,7 +9,7 @@ export default function Home() {
             <h1 className='text-4xl sm:text-7xl font-bold text-white'>Fernando Galvan</h1>
             <h2 className='text-3xl sm:text-5xl font-bold text-[#99B898]'>I am a full-stack software developer</h2>
             <p className='text-[#99B898] py-4 max-w-[700px]'>
-            My name is Fernando Galvan and I recently completed my coding boot camp at General Assembly's full-stack academy. I worked many years in other fields such as banking, healthcare and construction but found myself loving programming. I'd love to get speak more about my goals and aspirations, but here are some of the applications I've built.
+            Thank you for coming on by!
             </p>
             <div>
                 <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#FECEAB] hover:text-black'>View Work

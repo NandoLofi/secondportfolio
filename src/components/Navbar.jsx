@@ -34,22 +34,22 @@ export default function Navbar() {
         </ul>
         <div className='hidden lg:flex fixed flex-col top-[35%] lef-0'>
             <ul>
-                <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-14px] duration-300 bg-[#99B898]'>
+                <li className='w-[160px] h-[50px] flex justify-between items-center ml-[-100px] hover:ml-[-14px] duration-300 bg-[#99B898]'>
                     <a className='flex justify-between items-center w-full text-black-300' href="/">
                         LinkedIn <FaLinkedin size={30}/>
                     </a>
                 </li>
-                <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-14px] duration-300 bg-[#FECEAB]'>
+                <li className='w-[160px] h-[50px] flex justify-between items-center ml-[-100px] hover:ml-[-14px] duration-300 bg-[#FECEAB]'>
                     <a className='flex justify-between items-center w-full text-black-300' href="/">
                         GitHub<FaGithub size={30}/>
                     </a>
                 </li>
-                <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-14px] duration-300 bg-[#FF847C]'>
+                <li className='w-[160px] h-[50px] flex justify-between items-center ml-[-100px] hover:ml-[-14px] duration-300 bg-[#FF847C]'>
                     <a className='flex justify-between items-center w-full text-black-300' href="/">
                         Email <HiOutlineMail size={30}/>
                     </a>
                 </li>
-                <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-14px] duration-300 bg-[#E84A5F]'>
+                <li className='w-[160px] h-[50px] flex justify-between items-center ml-[-100px] hover:ml-[-14px] duration-300 bg-[#E84A5F]'>
                     <a className='flex justify-between items-center w-full text-black-300' href="/">
                         Resume <BsFillPersonLinesFill size={30}/>
                     </a>
