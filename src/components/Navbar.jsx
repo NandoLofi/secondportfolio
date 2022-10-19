@@ -3,6 +3,7 @@ import { FaBars, FaTimes, FaGithub, FaLinkedin } from 'react-icons/fa'
 import { useState } from 'react'
 import {HiOutlineMail} from 'react-icons/hi'
 import { BsFillPersonLinesFill } from 'react-icons/bs'
+import { Link } from 'react-scroll'
 
 export default function Navbar() {
     const [nav, setNav] = useState(false)
