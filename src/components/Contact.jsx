@@ -8,7 +8,7 @@ export default function Contact() {
                 <p className='text-4xl font-bold inline border-b-4 border-red-400 text-gray-300'>
                     Contact Me
                 </p>
-                <p className='text-gray-300 py-4'> Subimt form Below || Email Me: n.brighter00@gmail.com </p>
+                <p className='text-gray-300 py-4'> Submit form Below || Email Me: n.brighter00@gmail.com </p>
             </div>
             <input type="text" placeholder='Name' name='name' className='my-4 p-2 bg-gray-300'/>
             <input type="text" placeholder='Email' name='email'  className='my-4 p-2 bg-gray-300 '/>

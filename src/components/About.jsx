@@ -16,7 +16,7 @@ export default function About() {
                     </div>
                     <div>
                         <p>
-                        I recently completed my coding boot camp at General Assembly's full-stack academy. I worked many years in other fields such as banking, healthcare and construction but found myself loving programming. I'd love to get speak more about my goals and aspirations, but here are some of the applications I've built.
+                        I recently completed my coding boot camp at General Assembly's full-stack academy. I worked many years in other fields such as banking, healthcare and construction but found myself loving programming. I'd love to speak more about my goals and aspirations, but for now I hope you enjoy!.
                         </p>
                     </div>
             </div>
