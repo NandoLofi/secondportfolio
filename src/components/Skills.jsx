@@ -10,7 +10,7 @@ import CSharp from '../assets/csharp.png'
 
 export default function Skills() {
   return (
-    <div name='skills' className='bg-[#2A363B] text-gray-300'>
+    <div name='skills' className='bg-[#2A363B] md:h-screen text-gray-300'>
         <div className='m-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full lg:w-[1150px]'>
             <div>
                 <p className='text-4xl font-bold border-b-4 py-4 border-red-400'>Skills</p>
