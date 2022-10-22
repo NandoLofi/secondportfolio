@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/secondportfolio/static/css/main.1e6e6119.css",
+    "main.js": "/secondportfolio/static/js/main.2744ee50.js",
+    "static/media/crypto.jpg": "/secondportfolio/static/media/crypto.098fabe2489852cae510.jpg",
+    "static/media/tvshow.jpg": "/secondportfolio/static/media/tvshow.8c462a2bcee4d9c0bbea.jpg",
+    "static/media/lofi.jpeg": "/secondportfolio/static/media/lofi.acc866db9267420486d8.jpeg",
+    "static/media/javascript.png": "/secondportfolio/static/media/javascript.6c1e8db30d29481e0925.png",
+    "static/media/react.png": "/secondportfolio/static/media/react.f3e576ba08e6be927148.png",
+    "static/media/Resume.pdf": "/secondportfolio/static/media/Resume.2f4a10db6204391f687a.pdf",
+    "index.html": "/secondportfolio/index.html",
+    "main.1e6e6119.css.map": "/secondportfolio/static/css/main.1e6e6119.css.map",
+    "main.2744ee50.js.map": "/secondportfolio/static/js/main.2744ee50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e6e6119.css",
+    "static/js/main.2744ee50.js"
+  ]
+}
