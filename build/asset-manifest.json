@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.1e6e6119.css",
-    "main.js": "/static/js/main.4141f0c9.js",
+    "main.js": "/static/js/main.2401a1f1.js",
     "static/media/crypto.jpg": "/static/media/crypto.098fabe2489852cae510.jpg",
     "static/media/tvshow.jpg": "/static/media/tvshow.8c462a2bcee4d9c0bbea.jpg",
     "static/media/lofi.jpeg": "/static/media/lofi.acc866db9267420486d8.jpeg",
     "static/media/javascript.png": "/static/media/javascript.6c1e8db30d29481e0925.png",
     "static/media/react.png": "/static/media/react.f3e576ba08e6be927148.png",
-    "static/media/Resume.pdf": "/static/media/Resume.da36f14e64b29b5a0686.pdf",
+    "static/media/Resume.pdf": "/static/media/Resume.2f4a10db6204391f687a.pdf",
     "index.html": "/index.html",
     "main.1e6e6119.css.map": "/static/css/main.1e6e6119.css.map",
-    "main.4141f0c9.js.map": "/static/js/main.4141f0c9.js.map"
+    "main.2401a1f1.js.map": "/static/js/main.2401a1f1.js.map"
   },
   "entrypoints": [
     "static/css/main.1e6e6119.css",
-    "static/js/main.4141f0c9.js"
+    "static/js/main.2401a1f1.js"
   ]
 }
